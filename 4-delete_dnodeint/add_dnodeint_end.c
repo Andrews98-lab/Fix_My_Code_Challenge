@@ -1,4 +1,4 @@
-#include <string.h>
+nclude <string.h>
 #include <stdlib.h>
 #include "lists.h"
 
